@@ -7,6 +7,9 @@ Endless Tower is a 2D idle RPG game that features various RPG elements such as e
 This was a summer project attempted solely by me during the summer of 2022 using Unity. As this was a passion project and my first exposure at game development as
 well as C# and Unity, code quality was not highly prioritised during initial development but is being worked on currently.
 
+## Code
+- The main bulk of the source code for the scripts can be found in `/Scripts`.
+
 ## Future Goals
 1. Refactor code to increase readability and efficiency upon creating new additions in the future.
 2. Add varying enemy units that give power ups during the game itself.
