@@ -1,0 +1,104 @@
+{
+    "stats":
+    [
+        {
+            "level": 0,
+            "atk": 6,
+            "maxHP": 100,
+            "HPRegen": 0.0,
+            "defense": 0.0,
+            "gold": 10,
+            "buffChance": 0.02
+        },
+        {
+            "level": 1,
+            "atk": 10,
+            "maxHP": 120,
+            "HPRegen": 0.0,
+            "defense": 0.0,
+            "gold": 11,
+            "buffChance": 0.02
+        },
+        {
+            "level": 2,
+            "atk": 20,
+            "maxHP": 180,
+            "HPRegen": 0.0,
+            "defense": 0.0,
+            "gold": 12,
+            "buffChance": 0.02
+        },
+        {
+            "level": 3,
+            "atk": 40,
+            "maxHP": 250,
+            "HPRegen": 0.0,
+            "defense": 1.0,
+            "gold": 15,
+            "buffChance": 0.02
+        },
+        {
+            "level": 4,
+            "atk": 70,
+            "maxHP": 350,
+            "HPRegen": 1.0,
+            "defense": 1.0,
+            "gold": 20,
+            "buffChance": 0.02
+        },
+        {
+            "level": 5,
+            "atk": 110,
+            "maxHP": 500,
+            "HPRegen": 1.0,
+            "defense": 2.0,
+            "gold": 25,
+            "buffChance": 0.02
+        },
+        {
+            "level": 6,
+            "atk": 160,
+            "maxHP": 700,
+            "HPRegen": 3.0,
+            "defense": 3.0,
+            "gold": 30,
+            "buffChance": 0.02
+        },
+        {
+            "level": 7,
+            "atk": 300,
+            "maxHP": 1200,
+            "HPRegen": 8.0,
+            "defense": 8.0,
+            "gold": 35,
+            "buffChance": 0.02
+        },
+        {
+            "level": 8,
+            "atk": 500,
+            "maxHP": 1800,
+            "HPRegen": 15.0,
+            "defense": 15.0,
+            "gold": 40,
+            "buffChance": 0.02
+        },
+        {
+            "level": 9,
+            "atk": 800,
+            "maxHP": 3000,
+            "HPRegen": 25.0,
+            "defense": 25.0,
+            "gold": 45,
+            "buffChance": 0.02
+        },
+        {
+            "level": 10,
+            "atk": 1500,
+            "maxHP": 5000,
+            "HPRegen": 40.0,
+            "defense": 40.0,
+            "gold": 50,
+            "buffChance": 0.02
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "versionCode": 7,
+    "id": 0,
+    "points": 0,
+    "stats":
+    { 
+        "atk": 40,
+        "firerate": 3,
+        "critChance": 0.05,
+        "critDmg": 1.5,
+        "maxHP": 300,
+        "HPRegen": 2.0,
+        "defense": 3.0,
+        "goldBonus": 0.0,
+        "luck": 0.0,
+
+        "atkCost": 10,
+        "firerateCost": 10,
+        "critChanceCost": 10,
+        "critDmgCost": 10,
+        "maxHPCost": 10,
+        "HPRegenCost": 10,
+        "defenseCost": 10,
+        "goldBonusCost": 10,
+        "luckCost": 10
+    },
+    "levels":
+    {
+        "level0": true,
+        "level1": false,
+        "level2": false,
+        "level3": false,
+        "level4": false,
+        "level5": false,
+        "level6": false,
+        "level7": false,
+        "level8": false,
+        "level9": false,
+        "level10": false,
+        "endless": false,
+        "endlessLevel": 1
+    },
+    "perks":
+    {
+        "tycoon": 0,
+        "legionnaire": 0,
+        "steelblood": 0,
+        "mage": 0,
+        "pointmeister": 0
+    }
+}

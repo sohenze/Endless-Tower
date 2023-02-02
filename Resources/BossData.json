@@ -1,0 +1,115 @@
+{
+    "stats":
+    [
+        {
+            "level": 0,
+            "atk": 50,
+            "firerate": 3,
+            "critChance": 0.1,
+            "critDmg": 1.5,
+            "maxHP": 30000,
+            "HPRegen": 5.0,
+            "defense": 5.0
+        },
+        {
+            "level": 1,
+            "atk": 100,
+            "firerate": 3,
+            "critChance": 10,
+            "critDmg": 1.5,
+            "maxHP": 60000,
+            "HPRegen": 5.0,
+            "defense": 5.0
+        },
+        {
+            "level": 2,
+            "atk": 150,
+            "firerate": 3,
+            "critChance": 10,
+            "critDmg": 1.5,
+            "maxHP": 150000,
+            "HPRegen": 10.0,
+            "defense": 10.0
+        },
+        {
+            "level": 3,
+            "atk": 300,
+            "firerate": 3,
+            "critChance": 10,
+            "critDmg": 1.5,
+            "maxHP": 250000,
+            "HPRegen": 10.0,
+            "defense": 10.0
+        },
+        {
+            "level": 4,
+            "atk": 500,
+            "firerate": 3,
+            "critChance": 10,
+            "critDmg": 1.5,
+            "maxHP": 400000,
+            "HPRegen": 10.0,
+            "defense": 10.0
+        },
+        {
+            "level": 5,
+            "atk": 900,
+            "firerate": 3,
+            "critChance": 10,
+            "critDmg": 1.5,
+            "maxHP": 600000,
+            "HPRegen": 15.0,
+            "defense": 15.0
+        },
+        {
+            "level": 6,
+            "atk": 2000,
+            "firerate": 3,
+            "critChance": 10,
+            "critDmg": 1.5,
+            "maxHP": 900000,
+            "HPRegen": 15.0,
+            "defense": 15.0
+        },
+        {
+            "level": 7,
+            "atk": 4500,
+            "firerate": 3,
+            "critChance": 10,
+            "critDmg": 1.5,
+            "maxHP": 1250000,
+            "HPRegen": 20.0,
+            "defense": 20.0
+        },
+        {
+            "level": 8,
+            "atk": 11000,
+            "firerate": 3,
+            "critChance": 10,
+            "critDmg": 1.5,
+            "maxHP": 1550000,
+            "HPRegen": 50.0,
+            "defense": 50.0
+        },
+        {
+            "level": 9,
+            "atk": 30000,
+            "firerate": 3,
+            "critChance": 20,
+            "critDmg": 1.5,
+            "maxHP": 1900000,
+            "HPRegen": 150.0,
+            "defense": 150.0
+        },
+        {
+            "level": 10,
+            "atk": 50000,
+            "firerate": 3,
+            "critChance": 250,
+            "critDmg": 1.5,
+            "maxHP": 2500000,
+            "HPRegen": 300.0,
+            "defense": 300.0
+        }
+    ]
+}
