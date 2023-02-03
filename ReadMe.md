@@ -4,8 +4,7 @@ This repository contains the resources and source code for the android 2D RPG ga
 ## About
 Endless Tower is a 2D idle RPG game that features various RPG elements such as equipment, powerups and the progression of a player's stats. 
 
-This was a summer project attempted solely by me during the summer of 2022 using Unity. As this was a passion project and my first exposure at game development as
-well as C# and Unity, code quality was not highly prioritised during initial development but is being worked on currently.
+This was a solo project during the summer of 2022 using Unity and it is my first exposure to game development.
 
 ## Code
 - The main bulk of the source code for the scripts can be found in `/Scripts`.
