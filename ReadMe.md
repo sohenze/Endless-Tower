@@ -1,5 +1,5 @@
 # Endless Tower
-This repository contains the resources and source code for the android 2D RPG game `Endless Tower`. https://play.google.com/store/apps/details?id=com.Endevel.EndlessTower
+This repository contains the resources and source code for the android 2D RPG game Endless Tower. https://play.google.com/store/apps/details?id=com.Endevel.EndlessTower
 
 ## About
 Endless Tower is a 2D idle RPG game that features various RPG elements such as equipment, powerups and the progression of a player's stats. 
